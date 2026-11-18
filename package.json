@@ -1,0 +1,43 @@
+{
+  "name": "pocketpulse",
+  "version": "0.1.0",
+  "description": "A fast, offline command-line expense tracker for students: natural-language entry, smart categories, multiple currencies, local SQLite storage.",
+  "type": "module",
+  "bin": {
+    "pocketpulse": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test",
+    "release:check": "node scripts/check-release.js"
+  },
+  "keywords": [
+    "expense-tracker",
+    "budget",
+    "cli",
+    "terminal",
+    "sqlite",
+    "offline",
+    "privacy",
+    "students"
+  ],
+  "author": "Prince",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince2bit/pocketpulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prince2bit/pocketpulse/issues"
+  },
+  "homepage": "https://github.com/prince2bit/pocketpulse#readme"
+}

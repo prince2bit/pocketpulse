@@ -1,0 +1,241 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="764" height="371" viewBox="0 0 764 371" font-family="'JetBrains Mono','Fira Code','SF Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="15">
+<title>pocketpulse</title>
+<rect width="764" height="371" rx="12" fill="#12161c" stroke="#2b323c"/>
+<path d="M0 12a12 12 0 0 1 12-12h740a12 12 0 0 1 12 12v26H0z" fill="#1a1f27"/>
+<circle cx="22" cy="19" r="6" fill="#ff5f56"/><circle cx="42" cy="19" r="6" fill="#ffbd2e"/><circle cx="62" cy="19" r="6" fill="#27c93f"/>
+<text x="382" y="24" text-anchor="middle" fill="#8b95a5" font-size="13" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif">pocketpulse</text>
+<text x="22.0" y="64" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">$</text>
+<text x="40.0 49.0 58.0 67.0 76.0 85.0 94.0 103.0 112.0 121.0 130.0" y="64" fill="rgb(205,214,224)" opacity="1" font-weight="700" xml:space="preserve">pocketpulse</text>
+<text x="148.0 157.0 166.0 175.0 184.0 193.0" y="64" fill="rgb(205,214,224)" opacity="1" font-weight="700" xml:space="preserve">themes</text>
+<text x="22.0 31.0 40.0 49.0 58.0 67.0" y="84" fill="rgb(120,255,214)" opacity="1" font-weight="700" xml:space="preserve">THEMES</text>
+<text x="40.0 49.0 58.0 67.0 76.0" y="124" fill="rgb(182,255,0)" opacity="1" font-weight="700" xml:space="preserve">pulse</text>
+<rect x="112" y="112" width="9" height="14" fill="rgb(182,255,0)" opacity="1"/>
+<rect x="121" y="112" width="9" height="14" fill="rgb(174,254,11)" opacity="1"/>
+<rect x="130" y="112" width="9" height="14" fill="rgb(166,253,22)" opacity="1"/>
+<rect x="139" y="112" width="9" height="14" fill="rgb(158,252,33)" opacity="1"/>
+<rect x="148" y="112" width="9" height="14" fill="rgb(150,250,44)" opacity="1"/>
+<rect x="157" y="112" width="9" height="14" fill="rgb(142,249,55)" opacity="1"/>
+<rect x="166" y="112" width="9" height="14" fill="rgb(135,248,67)" opacity="1"/>
+<rect x="175" y="112" width="9" height="14" fill="rgb(127,247,78)" opacity="1"/>
+<rect x="184" y="112" width="9" height="14" fill="rgb(119,246,89)" opacity="1"/>
+<rect x="193" y="112" width="9" height="14" fill="rgb(111,245,100)" opacity="1"/>
+<rect x="202" y="112" width="9" height="14" fill="rgb(103,244,111)" opacity="1"/>
+<rect x="211" y="112" width="9" height="14" fill="rgb(95,243,122)" opacity="1"/>
+<rect x="220" y="112" width="9" height="14" fill="rgb(87,241,133)" opacity="1"/>
+<rect x="229" y="112" width="9" height="14" fill="rgb(79,240,144)" opacity="1"/>
+<rect x="238" y="112" width="9" height="14" fill="rgb(71,239,155)" opacity="1"/>
+<rect x="247" y="112" width="9" height="14" fill="rgb(63,238,166)" opacity="1"/>
+<rect x="256" y="112" width="9" height="14" fill="rgb(55,237,177)" opacity="1"/>
+<rect x="265" y="112" width="9" height="14" fill="rgb(47,236,188)" opacity="1"/>
+<rect x="274" y="112" width="9" height="14" fill="rgb(40,235,200)" opacity="1"/>
+<rect x="283" y="112" width="9" height="14" fill="rgb(32,234,211)" opacity="1"/>
+<rect x="292" y="112" width="9" height="14" fill="rgb(24,232,222)" opacity="1"/>
+<rect x="301" y="112" width="9" height="14" fill="rgb(16,231,233)" opacity="1"/>
+<rect x="310" y="112" width="9" height="14" fill="rgb(8,230,244)" opacity="1"/>
+<rect x="319" y="112" width="9" height="14" fill="rgb(0,229,255)" opacity="1"/>
+<text x="346.0 355.0 364.0 373.0" y="124" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">Neon</text>
+<text x="391.0 400.0 409.0 418.0" y="124" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">lime</text>
+<text x="436.0 445.0 454.0 463.0" y="124" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">into</text>
+<text x="481.0 490.0 499.0 508.0 517.0 526.0 535.0 544.0" y="124" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">electric</text>
+<text x="562.0 571.0 580.0 589.0" y="124" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">cyan</text>
+<text x="40.0 49.0 58.0 67.0 76.0 85.0" y="144" fill="rgb(255,150,50)" opacity="1" font-weight="700" xml:space="preserve">sunset</text>
+<rect x="112" y="132" width="9" height="14" fill="rgb(255,190,50)" opacity="1"/>
+<rect x="121" y="132" width="9" height="14" fill="rgb(255,184,54)" opacity="1"/>
+<rect x="130" y="132" width="9" height="14" fill="rgb(255,178,59)" opacity="1"/>
+<rect x="139" y="132" width="9" height="14" fill="rgb(255,172,63)" opacity="1"/>
+<rect x="148" y="132" width="9" height="14" fill="rgb(255,166,67)" opacity="1"/>
+<rect x="157" y="132" width="9" height="14" fill="rgb(255,160,72)" opacity="1"/>
+<rect x="166" y="132" width="9" height="14" fill="rgb(255,153,76)" opacity="1"/>
+<rect x="175" y="132" width="9" height="14" fill="rgb(255,147,80)" opacity="1"/>
+<rect x="184" y="132" width="9" height="14" fill="rgb(255,141,85)" opacity="1"/>
+<rect x="193" y="132" width="9" height="14" fill="rgb(255,135,89)" opacity="1"/>
+<rect x="202" y="132" width="9" height="14" fill="rgb(255,129,93)" opacity="1"/>
+<rect x="211" y="132" width="9" height="14" fill="rgb(255,123,98)" opacity="1"/>
+<rect x="220" y="132" width="9" height="14" fill="rgb(255,117,102)" opacity="1"/>
+<rect x="229" y="132" width="9" height="14" fill="rgb(255,111,107)" opacity="1"/>
+<rect x="238" y="132" width="9" height="14" fill="rgb(255,105,111)" opacity="1"/>
+<rect x="247" y="132" width="9" height="14" fill="rgb(255,99,115)" opacity="1"/>
+<rect x="256" y="132" width="9" height="14" fill="rgb(255,93,120)" opacity="1"/>
+<rect x="265" y="132" width="9" height="14" fill="rgb(255,87,124)" opacity="1"/>
+<rect x="274" y="132" width="9" height="14" fill="rgb(255,80,128)" opacity="1"/>
+<rect x="283" y="132" width="9" height="14" fill="rgb(255,74,133)" opacity="1"/>
+<rect x="292" y="132" width="9" height="14" fill="rgb(255,68,137)" opacity="1"/>
+<rect x="301" y="132" width="9" height="14" fill="rgb(255,62,141)" opacity="1"/>
+<rect x="310" y="132" width="9" height="14" fill="rgb(255,56,146)" opacity="1"/>
+<rect x="319" y="132" width="9" height="14" fill="rgb(255,50,150)" opacity="1"/>
+<text x="346.0 355.0 364.0 373.0" y="144" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">Warm</text>
+<text x="391.0 400.0 409.0 418.0 427.0" y="144" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">amber</text>
+<text x="445.0 454.0 463.0 472.0 481.0 490.0" y="144" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">fading</text>
+<text x="508.0 517.0 526.0 535.0" y="144" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">into</text>
+<text x="553.0 562.0 571.0" y="144" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">hot</text>
+<text x="589.0 598.0 607.0 616.0" y="144" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">pink</text>
+<text x="22.0" y="164" fill="rgb(64,196,255)" opacity="1" xml:space="preserve">›</text>
+<text x="40.0 49.0 58.0 67.0 76.0" y="164" fill="rgb(64,196,255)" opacity="1" font-weight="700" xml:space="preserve">ocean</text>
+<rect x="112" y="152" width="9" height="14" fill="rgb(40,140,255)" opacity="1"/>
+<rect x="121" y="152" width="9" height="14" fill="rgb(43,145,253)" opacity="1"/>
+<rect x="130" y="152" width="9" height="14" fill="rgb(47,150,251)" opacity="1"/>
+<rect x="139" y="152" width="9" height="14" fill="rgb(50,155,250)" opacity="1"/>
+<rect x="148" y="152" width="9" height="14" fill="rgb(54,160,248)" opacity="1"/>
+<rect x="157" y="152" width="9" height="14" fill="rgb(57,165,246)" opacity="1"/>
+<rect x="166" y="152" width="9" height="14" fill="rgb(61,170,244)" opacity="1"/>
+<rect x="175" y="152" width="9" height="14" fill="rgb(64,175,243)" opacity="1"/>
+<rect x="184" y="152" width="9" height="14" fill="rgb(68,180,241)" opacity="1"/>
+<rect x="193" y="152" width="9" height="14" fill="rgb(71,185,239)" opacity="1"/>
+<rect x="202" y="152" width="9" height="14" fill="rgb(75,190,237)" opacity="1"/>
+<rect x="211" y="152" width="9" height="14" fill="rgb(78,195,235)" opacity="1"/>
+<rect x="220" y="152" width="9" height="14" fill="rgb(82,200,234)" opacity="1"/>
+<rect x="229" y="152" width="9" height="14" fill="rgb(85,205,232)" opacity="1"/>
+<rect x="238" y="152" width="9" height="14" fill="rgb(89,210,230)" opacity="1"/>
+<rect x="247" y="152" width="9" height="14" fill="rgb(92,215,228)" opacity="1"/>
+<rect x="256" y="152" width="9" height="14" fill="rgb(96,220,226)" opacity="1"/>
+<rect x="265" y="152" width="9" height="14" fill="rgb(99,225,225)" opacity="1"/>
+<rect x="274" y="152" width="9" height="14" fill="rgb(103,230,223)" opacity="1"/>
+<rect x="283" y="152" width="9" height="14" fill="rgb(106,235,221)" opacity="1"/>
+<rect x="292" y="152" width="9" height="14" fill="rgb(110,240,219)" opacity="1"/>
+<rect x="301" y="152" width="9" height="14" fill="rgb(113,245,218)" opacity="1"/>
+<rect x="310" y="152" width="9" height="14" fill="rgb(117,250,216)" opacity="1"/>
+<rect x="319" y="152" width="9" height="14" fill="rgb(120,255,214)" opacity="1"/>
+<text x="346.0 355.0 364.0 373.0" y="164" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">Deep</text>
+<text x="391.0 400.0 409.0 418.0" y="164" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">blue</text>
+<text x="436.0 445.0 454.0 463.0" y="164" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">into</text>
+<text x="481.0 490.0 499.0 508.0" y="164" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">soft</text>
+<text x="526.0 535.0 544.0 553.0 562.0" y="164" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">aqua.</text>
+<text x="580.0 589.0 598.0 607.0" y="164" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">Easy</text>
+<text x="625.0 634.0" y="164" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">on</text>
+<text x="652.0 661.0 670.0" y="164" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">the</text>
+<text x="688.0 697.0 706.0 715.0" y="164" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">eyes</text>
+<text x="40.0 49.0 58.0 67.0 76.0" y="184" fill="rgb(185,140,255)" opacity="1" font-weight="700" xml:space="preserve">grape</text>
+<rect x="112" y="172" width="9" height="14" fill="rgb(140,110,255)" opacity="1"/>
+<rect x="121" y="172" width="9" height="14" fill="rgb(145,110,253)" opacity="1"/>
+<rect x="130" y="172" width="9" height="14" fill="rgb(150,111,250)" opacity="1"/>
+<rect x="139" y="172" width="9" height="14" fill="rgb(155,111,248)" opacity="1"/>
+<rect x="148" y="172" width="9" height="14" fill="rgb(160,112,245)" opacity="1"/>
+<rect x="157" y="172" width="9" height="14" fill="rgb(165,112,243)" opacity="1"/>
+<rect x="166" y="172" width="9" height="14" fill="rgb(170,113,241)" opacity="1"/>
+<rect x="175" y="172" width="9" height="14" fill="rgb(175,113,238)" opacity="1"/>
+<rect x="184" y="172" width="9" height="14" fill="rgb(180,113,236)" opacity="1"/>
+<rect x="193" y="172" width="9" height="14" fill="rgb(185,114,233)" opacity="1"/>
+<rect x="202" y="172" width="9" height="14" fill="rgb(190,114,231)" opacity="1"/>
+<rect x="211" y="172" width="9" height="14" fill="rgb(195,115,229)" opacity="1"/>
+<rect x="220" y="172" width="9" height="14" fill="rgb(200,115,226)" opacity="1"/>
+<rect x="229" y="172" width="9" height="14" fill="rgb(205,116,224)" opacity="1"/>
+<rect x="238" y="172" width="9" height="14" fill="rgb(210,116,222)" opacity="1"/>
+<rect x="247" y="172" width="9" height="14" fill="rgb(215,117,219)" opacity="1"/>
+<rect x="256" y="172" width="9" height="14" fill="rgb(220,117,217)" opacity="1"/>
+<rect x="265" y="172" width="9" height="14" fill="rgb(225,117,214)" opacity="1"/>
+<rect x="274" y="172" width="9" height="14" fill="rgb(230,118,212)" opacity="1"/>
+<rect x="283" y="172" width="9" height="14" fill="rgb(235,118,210)" opacity="1"/>
+<rect x="292" y="172" width="9" height="14" fill="rgb(240,119,207)" opacity="1"/>
+<rect x="301" y="172" width="9" height="14" fill="rgb(245,119,205)" opacity="1"/>
+<rect x="310" y="172" width="9" height="14" fill="rgb(250,120,202)" opacity="1"/>
+<rect x="319" y="172" width="9" height="14" fill="rgb(255,120,200)" opacity="1"/>
+<text x="346.0 355.0 364.0 373.0 382.0 391.0" y="184" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">Violet</text>
+<text x="409.0 418.0 427.0 436.0" y="184" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">into</text>
+<text x="454.0 463.0 472.0 481.0 490.0" y="184" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">candy</text>
+<text x="508.0 517.0 526.0 535.0" y="184" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">pink</text>
+<text x="40.0 49.0 58.0 67.0 76.0" y="204" fill="rgb(255,110,50)" opacity="1" font-weight="700" xml:space="preserve">ember</text>
+<rect x="112" y="192" width="9" height="14" fill="rgb(255,60,50)" opacity="1"/>
+<rect x="121" y="192" width="9" height="14" fill="rgb(255,67,51)" opacity="1"/>
+<rect x="130" y="192" width="9" height="14" fill="rgb(255,73,52)" opacity="1"/>
+<rect x="139" y="192" width="9" height="14" fill="rgb(255,80,53)" opacity="1"/>
+<rect x="148" y="192" width="9" height="14" fill="rgb(255,86,53)" opacity="1"/>
+<rect x="157" y="192" width="9" height="14" fill="rgb(255,93,54)" opacity="1"/>
+<rect x="166" y="192" width="9" height="14" fill="rgb(255,99,55)" opacity="1"/>
+<rect x="175" y="192" width="9" height="14" fill="rgb(255,106,56)" opacity="1"/>
+<rect x="184" y="192" width="9" height="14" fill="rgb(255,112,57)" opacity="1"/>
+<rect x="193" y="192" width="9" height="14" fill="rgb(255,119,58)" opacity="1"/>
+<rect x="202" y="192" width="9" height="14" fill="rgb(255,125,59)" opacity="1"/>
+<rect x="211" y="192" width="9" height="14" fill="rgb(255,132,60)" opacity="1"/>
+<rect x="220" y="192" width="9" height="14" fill="rgb(255,138,60)" opacity="1"/>
+<rect x="229" y="192" width="9" height="14" fill="rgb(255,145,61)" opacity="1"/>
+<rect x="238" y="192" width="9" height="14" fill="rgb(255,151,62)" opacity="1"/>
+<rect x="247" y="192" width="9" height="14" fill="rgb(255,158,63)" opacity="1"/>
+<rect x="256" y="192" width="9" height="14" fill="rgb(255,164,64)" opacity="1"/>
+<rect x="265" y="192" width="9" height="14" fill="rgb(255,171,65)" opacity="1"/>
+<rect x="274" y="192" width="9" height="14" fill="rgb(255,177,66)" opacity="1"/>
+<rect x="283" y="192" width="9" height="14" fill="rgb(255,184,67)" opacity="1"/>
+<rect x="292" y="192" width="9" height="14" fill="rgb(255,190,67)" opacity="1"/>
+<rect x="301" y="192" width="9" height="14" fill="rgb(255,197,68)" opacity="1"/>
+<rect x="310" y="192" width="9" height="14" fill="rgb(255,203,69)" opacity="1"/>
+<rect x="319" y="192" width="9" height="14" fill="rgb(255,210,70)" opacity="1"/>
+<text x="346.0 355.0 364.0 373.0 382.0 391.0 400.0" y="204" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">Red-hot</text>
+<text x="418.0 427.0 436.0 445.0" y="204" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">into</text>
+<text x="463.0 472.0 481.0 490.0 499.0 508.0" y="204" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">golden</text>
+<text x="526.0 535.0 544.0 553.0 562.0 571.0" y="204" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">yellow</text>
+<text x="40.0 49.0 58.0 67.0 76.0 85.0" y="224" fill="rgb(0,255,100)" opacity="1" font-weight="700" xml:space="preserve">matrix</text>
+<rect x="112" y="212" width="9" height="14" fill="rgb(0,255,90)" opacity="1"/>
+<rect x="121" y="212" width="9" height="14" fill="rgb(0,249,88)" opacity="1"/>
+<rect x="130" y="212" width="9" height="14" fill="rgb(0,243,87)" opacity="1"/>
+<rect x="139" y="212" width="9" height="14" fill="rgb(0,237,85)" opacity="1"/>
+<rect x="148" y="212" width="9" height="14" fill="rgb(0,232,83)" opacity="1"/>
+<rect x="157" y="212" width="9" height="14" fill="rgb(0,226,81)" opacity="1"/>
+<rect x="166" y="212" width="9" height="14" fill="rgb(0,220,80)" opacity="1"/>
+<rect x="175" y="212" width="9" height="14" fill="rgb(0,214,78)" opacity="1"/>
+<rect x="184" y="212" width="9" height="14" fill="rgb(0,208,76)" opacity="1"/>
+<rect x="193" y="212" width="9" height="14" fill="rgb(0,202,74)" opacity="1"/>
+<rect x="202" y="212" width="9" height="14" fill="rgb(0,196,73)" opacity="1"/>
+<rect x="211" y="212" width="9" height="14" fill="rgb(0,190,71)" opacity="1"/>
+<rect x="220" y="212" width="9" height="14" fill="rgb(0,185,69)" opacity="1"/>
+<rect x="229" y="212" width="9" height="14" fill="rgb(0,179,67)" opacity="1"/>
+<rect x="238" y="212" width="9" height="14" fill="rgb(0,173,66)" opacity="1"/>
+<rect x="247" y="212" width="9" height="14" fill="rgb(0,167,64)" opacity="1"/>
+<rect x="256" y="212" width="9" height="14" fill="rgb(0,161,62)" opacity="1"/>
+<rect x="265" y="212" width="9" height="14" fill="rgb(0,155,60)" opacity="1"/>
+<rect x="274" y="212" width="9" height="14" fill="rgb(0,149,59)" opacity="1"/>
+<rect x="283" y="212" width="9" height="14" fill="rgb(0,143,57)" opacity="1"/>
+<rect x="292" y="212" width="9" height="14" fill="rgb(0,138,55)" opacity="1"/>
+<rect x="301" y="212" width="9" height="14" fill="rgb(0,132,53)" opacity="1"/>
+<rect x="310" y="212" width="9" height="14" fill="rgb(0,126,52)" opacity="1"/>
+<rect x="319" y="212" width="9" height="14" fill="rgb(0,120,50)" opacity="1"/>
+<text x="346.0 355.0 364.0 373.0 382.0 391.0 400.0" y="224" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">Classic</text>
+<text x="418.0 427.0 436.0 445.0 454.0 463.0 472.0 481.0 490.0 499.0 508.0 517.0 526.0 535.0" y="224" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">green-on-black</text>
+<text x="553.0 562.0 571.0 580.0 589.0 598.0" y="224" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">hacker</text>
+<text x="616.0 625.0 634.0 643.0 652.0 661.0 670.0 679.0" y="224" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">terminal</text>
+<text x="40.0 49.0 58.0 67.0" y="244" fill="rgb(240,240,240)" opacity="1" font-weight="700" xml:space="preserve">mono</text>
+<rect x="112" y="232" width="9" height="14" fill="rgb(255,255,255)" opacity="1"/>
+<rect x="121" y="232" width="9" height="14" fill="rgb(249,249,250)" opacity="1"/>
+<rect x="130" y="232" width="9" height="14" fill="rgb(243,243,244)" opacity="1"/>
+<rect x="139" y="232" width="9" height="14" fill="rgb(237,237,239)" opacity="1"/>
+<rect x="148" y="232" width="9" height="14" fill="rgb(232,232,233)" opacity="1"/>
+<rect x="157" y="232" width="9" height="14" fill="rgb(226,226,228)" opacity="1"/>
+<rect x="166" y="232" width="9" height="14" fill="rgb(220,220,222)" opacity="1"/>
+<rect x="175" y="232" width="9" height="14" fill="rgb(214,214,217)" opacity="1"/>
+<rect x="184" y="232" width="9" height="14" fill="rgb(208,208,212)" opacity="1"/>
+<rect x="193" y="232" width="9" height="14" fill="rgb(202,202,206)" opacity="1"/>
+<rect x="202" y="232" width="9" height="14" fill="rgb(196,196,201)" opacity="1"/>
+<rect x="211" y="232" width="9" height="14" fill="rgb(190,190,195)" opacity="1"/>
+<rect x="220" y="232" width="9" height="14" fill="rgb(185,185,190)" opacity="1"/>
+<rect x="229" y="232" width="9" height="14" fill="rgb(179,179,184)" opacity="1"/>
+<rect x="238" y="232" width="9" height="14" fill="rgb(173,173,179)" opacity="1"/>
+<rect x="247" y="232" width="9" height="14" fill="rgb(167,167,173)" opacity="1"/>
+<rect x="256" y="232" width="9" height="14" fill="rgb(161,161,168)" opacity="1"/>
+<rect x="265" y="232" width="9" height="14" fill="rgb(155,155,163)" opacity="1"/>
+<rect x="274" y="232" width="9" height="14" fill="rgb(149,149,157)" opacity="1"/>
+<rect x="283" y="232" width="9" height="14" fill="rgb(143,143,152)" opacity="1"/>
+<rect x="292" y="232" width="9" height="14" fill="rgb(138,138,146)" opacity="1"/>
+<rect x="301" y="232" width="9" height="14" fill="rgb(132,132,141)" opacity="1"/>
+<rect x="310" y="232" width="9" height="14" fill="rgb(126,126,135)" opacity="1"/>
+<rect x="319" y="232" width="9" height="14" fill="rgb(120,120,130)" opacity="1"/>
+<text x="346.0 355.0" y="244" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">No</text>
+<text x="373.0 382.0 391.0 400.0 409.0 418.0" y="244" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">colour</text>
+<text x="436.0 445.0 454.0 463.0 472.0 481.0 490.0 499.0 508.0 517.0 526.0 535.0" y="244" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">personality:</text>
+<text x="553.0 562.0 571.0 580.0 589.0" y="244" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">clean</text>
+<text x="607.0 616.0 625.0 634.0 643.0" y="244" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">white</text>
+<text x="661.0 670.0 679.0" y="244" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">and</text>
+<text x="697.0 706.0 715.0 724.0" y="244" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">grey</text>
+<text x="22.0 31.0 40.0 49.0 58.0 67.0 76.0" y="264" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">Current</text>
+<text x="94.0 103.0 112.0 121.0 130.0 139.0" y="264" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">theme:</text>
+<text x="157.0 166.0 175.0 184.0 193.0" y="264" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">ocean</text>
+<text x="22.0 31.0 40.0" y="304" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">Try</text>
+<text x="58.0 67.0 76.0 85.0" y="304" fill="rgb(205,214,224)" opacity="1" xml:space="preserve">one:</text>
+<text x="40.0 49.0 58.0 67.0 76.0 85.0 94.0 103.0 112.0 121.0 130.0" y="324" fill="rgb(64,196,255)" opacity="1" xml:space="preserve">pocketpulse</text>
+<text x="148.0 157.0 166.0 175.0 184.0 193.0 202.0" y="324" fill="rgb(64,196,255)" opacity="1" xml:space="preserve">--theme</text>
+<text x="220.0 229.0 238.0 247.0 256.0" y="324" fill="rgb(64,196,255)" opacity="1" xml:space="preserve">ocean</text>
+<text x="22.0 31.0 40.0 49.0" y="344" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">Keep</text>
+<text x="67.0 76.0 85.0" y="344" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">one</text>
+<text x="103.0 112.0 121.0 130.0 139.0 148.0 157.0 166.0 175.0 184.0 193.0 202.0" y="344" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">permanently:</text>
+<text x="229.0 238.0 247.0 256.0 265.0 274.0 283.0 292.0 301.0 310.0 319.0" y="344" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">pocketpulse</text>
+<text x="337.0 346.0 355.0 364.0 373.0 382.0 391.0 400.0" y="344" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">settings</text>
+<text x="418.0 427.0 436.0 445.0 454.0" y="344" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">theme</text>
+<text x="472.0 481.0 490.0 499.0 508.0" y="344" fill="rgb(140,140,155)" opacity="1" xml:space="preserve">ocean</text>
+</svg>
