@@ -25,12 +25,31 @@ Screenshots use sample data and are rendered from the program's real output.
 **The home screen.** Arrow keys or one-letter shortcuts, with the dashboard above the menu.  
 **Weekly and monthly analytics.** Totals, averages, the busiest day, bar charts and a comparison with the previous period.  
 **Themes.** Seven of them, with ocean as the default.  
-**Install**  
-Requires **Node.js 22.13 or newer**. There are no npm dependencies.  
-git clone https://github.com/prince2bit/pocketpulse.git  
- cd pocketpulse  
- node src/index.js            # run it  
- npm link                     # optional: puts the `pocketpulse` command on your PATH  
+## Installation
+
+Requires Node.js 22.13 or newer. No npm dependencies required.
+
+Clone and install PocketPulse:
+
+```bash
+git clone https://github.com/prince2bit/pocketpulse.git
+cd pocketpulse
+npm link
+```
+
+## Usage
+
+Launch PocketPulse:
+
+```bash
+pocketpulse
+```
+
+Add an expense:
+
+```bash
+pocketpulse add samosa 40
+```
    
 **Usage**  
 pocketpulse                          # dashboard and menu (first run asks for your main currency)  
